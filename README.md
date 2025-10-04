@@ -2,7 +2,7 @@
 PDBP (Porn and Distraction Blocking Program): a focused digital self-control toolkit that blocks adult content and high-distraction sites, enforces robust browser/system policies, and resists rollback. Suitable for personal or managed deployment. Open source, documented, with a one-click installer. Cross-platform support; actively maintained. Safe.
 
 [TUTORIAL DE IMPLANTAÇÃO — CHROME]
-Escopo: Chrome. Versão para Edge em desenvolvimento e será entregue em breve.
+Escopo: Chrome. Versões para Edge e Android estão em desenvolvimento e serão entregues em breve.
 
 1) No Chrome Web Store, instale a extensão BlockP.
 2) Dentro da extensão, configure sua lista forte de palavras e sites a bloquear.
@@ -21,7 +21,7 @@ Observação:
 
 
 [DEPLOYMENT TUTORIAL — CHROME]
-Scope: Chrome only. Edge version is in development and will be delivered soon.
+Scope: Chrome only. Edge and Android versions are in development and will be delivered soon.
 
 1) In the Chrome Web Store, install the BlockP extension.
 2) Inside the extension, set a strong list of blocked words and sites.
